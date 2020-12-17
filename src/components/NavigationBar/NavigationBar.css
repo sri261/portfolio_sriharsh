@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.logo {
+  justify-self: flex-start;
+}
+.navbar-items {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.navbar-items li {
+  margin: 10px 30px;
+}

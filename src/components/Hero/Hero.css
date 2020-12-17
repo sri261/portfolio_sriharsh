@@ -1,0 +1,14 @@
+.hero {
+  margin-top: 20vh;
+  display: flex;
+  flex-direction: row;
+  height: 70vh;
+}
+.hero-section {
+  width: 50vw;
+  text-align: center;
+}
+
+.hero-logo {
+  height: 50vh;
+}
